@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the proceedings at the sessions-house in the Old-Baly begun on Wednesday the 8th. of this instant December, 1675 and there continuing till the Saturday following. Wherein seventen [sic] men, two women, and a boy about fourteen years of age received judgment to dye for their several offences. Besides, neer twenty that received the mercy of the King for transportation; twelve had the benefit of the clergy, and were onely burnt in the hand, six to be whipt at the carts [sic] tayl, &amp;c. With all the particular circumstances of their tryals, and the nature of their crimes. With allowance, Roger L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95106</idno>
+            <idno type="STC">Wing T2816A</idno>
+            <idno type="STC">ESTC R217289</idno>
+            <idno type="EEBO-CITATION">99897749</idno>
+            <idno type="PROQUEST">99897749</idno>
+            <idno type="VID">135545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135545)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2537:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the proceedings at the sessions-house in the Old-Baly begun on Wednesday the 8th. of this instant December, 1675 and there continuing till the Saturday following. Wherein seventen [sic] men, two women, and a boy about fourteen years of age received judgment to dye for their several offences. Besides, neer twenty that received the mercy of the King for transportation; twelve had the benefit of the clergy, and were onely burnt in the hand, six to be whipt at the carts [sic] tayl, &amp;c. With all the particular circumstances of their tryals, and the nature of their crimes. With allowance, Roger L'Estrange.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Pierce,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135545:1"/>
+            <!-- PDF PAGE 67 -->
+            <p>A TRUE NARRATIVE Of the Proceedings At the Seſsions-Houſe IN THE OLD-BALY Begun on Wedneſday the 8th. of this Inſtant <hi>December,</hi> 1675- and there continuing till the Saturday Following.</p>
+            <p>Wherein Seventen Men, Two Women, and a Boy about Fourteen Years of Age Received Iudgement to Dye for their ſeveral Of<g ref="char:EOLhyphen"/>fences.</p>
+            <p>Beſides, neer Twenty that Received the Mercy of the King for Tranſportation; Twelve had the Benefit of the Clergy, and were onely Burnt in the Hand, Sir to be Whipt at the Carts Tayl, &amp;c.</p>
+            <p>With all the Particular Circumſtances of their Tryals, and the Nature of their Crimes.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance,</p>
+                        <closer>
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Benjamin Pierce<g ref="char:punc">▪</g>
+               </hi> 1675.</p>
+            <pb facs="tcp:135545:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:135545:2"/>
+            <!-- PDF PAGE 68 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135545:3"/>
+            <!-- PDF PAGE 69 -->
+            <pb n="3" facs="tcp:135545:3"/>
+            <!-- PDF PAGE 69 -->
+            <head>An Account of the Proceedings at the Seſsions-Houſe in the <hi>Old-Bayly,</hi> &amp;c.</head>
+            <p>AT the Seſsions holden at Juſtice-Hall in the Old-Bayly, on Wedneſday the eighth of this inſtant December, 1675. were tryed divers Malefactors, almoſt an hundred in number to anſwer for their ſeveral miſdemeanours; ſuch as Murder, Robbery, burglary, Theft, &amp;c. of which one and twenty received ſentence of condem<g ref="char:EOLhyphen"/>nation, and are accordingly to ſuffer unleſs they find His Majeſties gracious pardon for the ſame, the prin<g ref="char:EOLhyphen"/>cipal, and moſt remarkable for theſe were.</p>
+            <p>FIrſt of all a parcel of Bayliffs with their follow<g ref="char:EOLhyphen"/>ers, being in all five in number: theſe haveing a Writ againſt a perſon living near Turn-ſtile in Hol<g ref="char:EOLhyphen"/>bourn, went to ſerve it upon him accordingly, but failing in their enterprize, and being incenſed by the hiſſing and floutings of the Shop keepers and Appren<g ref="char:EOLhyphen"/>tices thereabouts, one of them drew his Hanger, and making at one of the crowd cut clean through the brims of his Hat, but by his ſtepping back eſcaped without any further harm. The tumult no way terri<g ref="char:EOLhyphen"/>fied hereby began to revile them more than before; inſomuch that the Bayliffs (a ſort of Men not very apt to take affronts) began to be ſo highly enraged,
+<pb n="4" facs="tcp:135545:4"/>
+               <!-- PDF PAGE 70 -->that one of them calling to his Companions, ſwore in (the too vulgar Praſe) Damme! Draw, and we will clear the way. Whereupon 'tis ſaid that all of them (however, as many as had ſwords) drew, and cut<g ref="char:EOLhyphen"/>ting as it were a paſſage thorough the crowd, till they came to the end of Turn-ſtile-Alley, they met with one <hi>Richard Allen,</hi> by profeſſion a Sea-Chirur<g ref="char:EOLhyphen"/>ge<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, who being inquiſitive into the cauſe of that diſturbance, and, as ſome ſay, concerned in it; they fell upon him ſo ſeverely; hacking and hewing him without any mercy, that they left him dead upon the place; for beſides the terrible wounds he re<g ref="char:EOLhyphen"/>ceived in his Legs, Thighs, and eſpecially his arms, the only defence he had for his head, the moſt mortal and dangerous was that in his skull, a good part of which was taken clean off. Hereupon they were ap<g ref="char:EOLhyphen"/>prehended and committed to the Priſon of Newgate, and the Coroner ſitting on the body returned it mur<g ref="char:EOLhyphen"/>der, as it was likewiſe found in Court, and three of the principal of them convicted of the ſame, and re<g ref="char:EOLhyphen"/>ceived ſentence of condemnation accordingly.</p>
+            <p>After theſe a Boy of about fourteen or fifteen years of age took his Tryal, it ſeems he was remov<g ref="char:EOLhyphen"/>ed by <hi>Habeas Corpus</hi> from <hi>Northampton</hi>-Goal, where the fact was committed as followeth. The aforeſaid Boy being the Son of an Yeoman in the ſaid County of <hi>Northampton,</hi> was employed by his father to re<g ref="char:EOLhyphen"/>ceive a ſumm of money, which accordingly he did; but upon I know not what occaſion miſpent, or loſt the greateſt part of the money, and being conſcious to himſelf how ill a thing he had done, and how dear<g ref="char:EOLhyphen"/>ly he was like to ſuffer for it, reſolved upon an Ad<g ref="char:EOLhyphen"/>venture
+<pb n="5" facs="tcp:135545:4"/>
+               <!-- PDF PAGE 70 -->far more miſchievous in it's nature, and dan<g ref="char:EOLhyphen"/>gerous in the conſequences of it. For his money being ſo far ſpent that he was afraid to return home, he bought him three Piſtols with the remainder; not doubting as young as he was, to make up his fortune upon the road, and return to his father with credit, and ſatisfaction; but when the moſt hardy and reſo<g ref="char:EOLhyphen"/>lute gallant of our times do dayly miſcarry in <gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>mpt of this kind, what ſucceſs can ſo ſmall a Gameſter hope for, who nevertheleſs was more deſperate in his firſt adventure then could be expected, or would have been wiſhed. For the firſt Perſon he met with being a Cittizen of London travelling that Road, he paſsed him by, and turning his horſes head about followed him, and ſhot him in the back, but not ſo as to make him fall, whereupon not having ſtrength or courage enough to compleat his villany, he fled, and the Gentleman, though too much wounded to pur<g ref="char:EOLhyphen"/>ſue him, had yet ſtrength enough to ride to the next town, where he made a diſcovery of the fa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, upon which the boy was purſued, apprended, and this ſeſ<g ref="char:EOLhyphen"/>ſions received ſentence for the ſame.</p>
+            <p>In the next place was Try'd a Butcher, againſt whom it was alledged that he and his Companions rob'd one <hi>Thomas Barnard</hi> of about five or ſix pound in money, and afterwards deſperately wounded him, with an intention, as was thought, to have kill'd him, to prevent Diſcovery, being, it ſeems, known to the ſaid <hi>Barnard;</hi> But he by providence eſcaping with his life, declaring the manner of the fact, and naming one of the principal perſons concern'd in it, upon a di<g ref="char:EOLhyphen"/>ligent ſerch it was not long e'r he was apprehended.
+<pb n="6" facs="tcp:135545:5"/>
+               <!-- PDF PAGE 71 -->This Fellony and Robbery was committed a little be<g ref="char:EOLhyphen"/>yond <hi>Iſlington,</hi> between which place and <hi>Barnet</hi> divers others were robbed that Evening, and as was ſuppoſed, by the ſame gang, but no more of them were taken, neither did any of the perſons ſo robed give Evidence againſt the Priſoner, but onely the ſaid <hi>Thomas Barnard,</hi> who knowing him ſo well, and giving in ſo plain an Evidence againſt him, the Jury <unclear>could do no leſs then</unclear> find him Guilty, according to which evidence he now ſtands Condemned.</p>
+            <p>After him were Tryed other 3 Perſons for Padding upon the High-way, and particularly they were charg'd with the Fellony and Robbery committed up<g ref="char:EOLhyphen"/>on a perſon of Honour at <hi>Hide-Park-Corner.</hi> It was ſworn that they diſcharged three Piſtols at the Coach, one of which wounded the Noble-man that owned it, who beſides Money, loſt a Beaver-Hat, Silver-Hilted Sword, and other things of Value: a Gentle<g ref="char:EOLhyphen"/>man who was preſent when the Robbery was com<g ref="char:EOLhyphen"/>mitted, came in as Evidence, and ſwore poſsitively as to the matter of fact, but being asked whether or no he knew the Priſoners at the Barr, and would ſwear they were concerned in it, he made anſwer, he could not; ſo that it is probable they might have eſcaped, had not a Perſon formerly Convicted, but ſince par<g ref="char:EOLhyphen"/>doned, upon the Account of Diſcovering his Accom<g ref="char:EOLhyphen"/>plices in this and ſeveral other Robberies come in a<g ref="char:EOLhyphen"/>gainſt them. 'Tis true, they had ſeveral ways to evade the Accrimination, one of them pleaded that he had not for many weeks ſtir'd abroad for fear of an Arreſt, and being proved that he was abroad the ſame day the Robbery was commited, he alledged he was forced
+<pb n="7" facs="tcp:135545:5"/>
+               <!-- PDF PAGE 71 -->thereto upon the account of borrowing Fifty Shil<g ref="char:EOLhyphen"/>lings, which accordingly he did, of a perſon living behind St. <hi>Clements.</hi> A woman likewiſe witneſsed that they were all three Drinking at her houſe the ſame day, till ten a clock at Night, even at the very time that the Robbery was done, but her Evidence ſtood then in little ſteed, for the perſon above mentioned ſwore quite blank that he himſelf was one of theſe that Robbed and wounded the Perſon of Quality as aforeſaid, and that thoſe three Men at the Barr, point<g ref="char:EOLhyphen"/>ing to them, and calling them by their Names, were the perſons that were with him, and ſome others (ſince Fled) as Confederates and Aſsiſtants.</p>
+            <p>There were likewiſe two others that had formerly been convicted of Fellony, and receiving the benefit of their Clergy had been only burnd in the hand that were again Apprehended with ſeveral bunches of Pick-locks of all ſorts and ſizes wherewith it ſeems they had done ſeveral offences; but their conviction came from a Woman that keeps a publique Houſe, who poſſitively made oath that ſhe was robb'd of a conſiderable ſum of money and goods, to a great va<g ref="char:EOLhyphen"/>lue, and that the priſoners at the bar were the very perſons, ſo the pick-locks being all battered and broke in Court, the Malefactors were found guilty and re<g ref="char:EOLhyphen"/>ceived ſentence.</p>
+            <p>There were as I have ſaid ſeveral others condemn<g ref="char:EOLhyphen"/>ed, to the number eighteen Men, and two Women, upon all which it will be too tedious to enlarge my<g ref="char:EOLhyphen"/>ſelf. In ſhort thus.</p>
+            <p>One other for breaking into the houſe of William
+<pb n="8" facs="tcp:135545:6"/>
+               <!-- PDF PAGE 72 -->King, and taking away goods to a conſiderable value.</p>
+            <p>Two perſons for breaking open a Gentlemans Houſe at Kentiſh-town, and takeing away ſeveral goods.</p>
+            <p>One for fellony and burglary, firing a Piſtol, and drawing his Weapon at the conſtable.</p>
+            <p>Two others for fellony and burglary committed in White-Chappel.</p>
+            <p>One other for ſtealing a bay-Gelding which he ſold at Bulwick in Northampton-ſhire, and another for ſtealing two Horſes which he confeſſed.</p>
+            <p>Likewiſe two Women formerly convicted of fel<g ref="char:EOLhyphen"/>lony that might have had the mercy of the Court, and the Kings pardon for Tranſportion, but refuſed it, ſo they had ſentence paſſed upon them.</p>
+            <p>Theſe are the ſeveral crimes of ſuch as are to ſuffer Death; beſides near twenty that received the Mercy of the King for Tranſportation, twelve burnt in the hand, and ſix to be whipt at the Carts-tayl.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135545:6"/>
+            <!-- PDF PAGE 72 -->
+         </div>
+      </body>
+   </text>
+</TEI>
